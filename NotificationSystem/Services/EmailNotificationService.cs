@@ -1,0 +1,9 @@
+﻿namespace NotificationSystem;
+
+public class EmailNotificationService : INotificationService
+{
+    public void Send(string recipient, string message)
+    {
+        Console.WriteLine($"Email to {recipient}: {message}");
+    }
+}
