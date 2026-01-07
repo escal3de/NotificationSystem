@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-
-namespace NotificationSystem;
+﻿namespace NotificationSystem.Factories;
 
 public class NotificationFactory : INotificationFactory
 {

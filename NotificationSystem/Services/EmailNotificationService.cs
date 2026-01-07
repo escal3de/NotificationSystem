@@ -1,4 +1,4 @@
-﻿namespace NotificationSystem;
+﻿namespace NotificationSystem.Services;
 
 public class EmailNotificationService : INotificationService
 {

@@ -1,4 +1,4 @@
-﻿namespace NotificationSystem;
+﻿namespace NotificationSystem.Utility;
 
 public class Logger : ILogger
 {

@@ -1,4 +1,4 @@
-﻿namespace NotificationSystem;
+﻿namespace NotificationSystem.Interfaces;
 
 public interface INotificationFactory
 {

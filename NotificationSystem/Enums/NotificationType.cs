@@ -1,6 +1,6 @@
-﻿namespace NotificationSystem;
+﻿namespace NotificationSystem.Enums;
 
-internal enum NotificationType
+public enum NotificationType
 {
     Email,
     Sms
